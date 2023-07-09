@@ -1,7 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 
-@use'./config-scss/reset.scss';
-@use './config-scss/variable.scss';
+@import'./config-scss/reset.scss';
+@import './config-scss/variable.scss';
 @import './config-scss/rem-calc\(\).scss';
 
 html{
